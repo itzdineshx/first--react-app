@@ -1,0 +1,19 @@
+.Home{
+    width: 100%;
+    height: 400px;
+    background: lightblue;
+    font-size: 30px;
+}
+
+.Products{
+    width: 100%;
+    height: 400px;
+    background: pink;
+    font-size: 30px;
+}
+
+.ProductItem{
+    width: fit-content;
+    background: rgb(168, 166, 166);
+    font-size: 30px;
+}
